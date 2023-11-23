@@ -1,0 +1,19 @@
+h1 {
+  color: blue;
+
+  &:hover {
+    color: lightblue;
+  }
+}
+
+svg.logo-apple path {
+  fill: lightblue;
+}
+
+.logo-android path {
+  fill: #ccc;
+}
+
+.logo path {
+  fill: #ccc
+}
